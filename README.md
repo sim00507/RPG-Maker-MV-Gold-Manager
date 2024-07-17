@@ -6,10 +6,8 @@ This cheat plugin provides a simple GUI to set the player's gold amount in the g
 
 ## Set up
 1. Overwrite the existing ```main.js``` file in ```game\www\js\``` with the provided ```main.js``` file. 
-2. Place ```init.js``` in ```game\www\js\plugins\.```
-3. Place ```CreateGui.js``` in ```game\www\gui\.```
-4. Place ```GoldCheat.js``` in ```game\www\cheat_modules\.```
-5. Run ```game.exe``` and play game.
+2. Place ```GoldCheat.js``` in ```game\www\js\plugins\.```
+3. Run ```game.exe``` and play game.
 
 After following these steps, the cheat plugin will be active in your game.
 
