@@ -5,7 +5,7 @@ Simple GUI RPG Maker MV Game Cheat Tool
 This cheat plugin provides a simple GUI to set the player's gold amount in the game. Once installed, press the "```Home```" key to toggle the GUI on or off. From the GUI, you can easily set the desired amount of gold for your game party.
 
 ## Set up
-1. Overwrite the existing ```main.js``` file in ```game\www\js\``` with the provided main.js file. 
+1. Overwrite the existing ```main.js``` file in ```game\www\js\``` with the provided ```main.js``` file. 
 2. Place ```init.js``` in ```game\www\js\plugins\.```
 3. Place ```CreateGui.js``` in ```game\www\gui\.```
 4. Place ```GoldCheat.js``` in ```game\www\cheat_modules\.```
